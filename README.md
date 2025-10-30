@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Currently working on [Tambo ai](https://github.com/tambo-ai/tambo) to make integrating natural language control into React apps simple
+check it out and leave a star if it's interesting :)
+
 <!--
 **MichaelMilstead/MichaelMilstead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
